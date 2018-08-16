@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
+    "echarts": "^4.1.0",
+    "echarts-for-react": "^2.0.14",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-image-gallery": "^0.8.10",
