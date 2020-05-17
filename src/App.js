@@ -3,7 +3,7 @@ import {
     BrowserRouter as Router,
     Route,
     Switch,
-    Redirectß
+    Redirect
 } from "react-router-dom";
 
 import './App.css';
